@@ -1,0 +1,9 @@
+Doses with Percent of recommendation,Advisor,Antibiotic,% of Correct Responses
+Doses within 10% of Recommended* n(%),Pre-Advisor,Amikacin,43
+Doses within 10% of Recommended* n(%),Post-Advisor,Amikacin,76
+Doses within 10% of Recommended* n(%),Pre-Advisor,Tobramycin,37
+Doses within 10% of Recommended* n(%),Post-Advisor,Tobramycin,83
+Doses > ±25% of Recommended n(%),Pre-Advisor,Amikacin,25
+Doses > ±25% of Recommended n(%),Post-Advisor,Amikacin,11
+Doses > ±25% of Recommended n(%),Pre-Advisor,Tobramycin,22
+Doses > ±25% of Recommended n(%),Post-Advisor,Tobramycin,2
